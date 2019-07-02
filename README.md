@@ -1,2 +1,3 @@
-# blog
-personal frontend learning blog 
+# Blog
+
+Personal frontend learning blog repo
